@@ -1,0 +1,12 @@
+{
+   "_id": "t001",
+   "TransactionType": "Asset_request",
+   "EmployeeId": "e004",
+   "time": ISODate("2019-03-06T07:12:28")
+ },
+ {
+   "_id": "t002",
+   "TransactionType": "Asset_assigned",
+   "EmployeeId": "e004",
+   "time": ISODate("2019-03-06T09:24:06")
+ }

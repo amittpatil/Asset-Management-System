@@ -1,0 +1,62 @@
+{
+   "_id": "e001",
+   "employeeName": "Steve Wagh",
+   "Password": "steve@001",
+   "employeeDept": "Development",
+   "managerID": "e004",
+   "Role": "employee"
+ },
+ {
+   "_id": "e002",
+   "employeeName": "Charis Trippy",
+   "Password": "charis@002",
+   "employeeDept": "Development",
+   "managerID": "e004",
+   "Role": "employee"
+ },
+ {
+   "_id": "e003",
+   "employeeName": "Shy Watson",
+   "Password": "shy@003",
+   "employeeDept": "Development",
+   "managerID": "e004",
+   "Role": "employee"
+ },
+ {
+   "_id": "e004",
+   "employeeName": "Katilet Ben",
+   "Password": "katilet@004",
+   "employeeDept": "Development",
+   "Role": "manager"
+ },
+ {
+   "_id": "e005",
+   "employeeName": "July Cyrus",
+   "Password": "july@005",
+   "employeeDept": "Testing",
+   "Role": "manager"
+ },
+ {
+   "_id": "e006",
+   "employeeName": "Denny Denzonpe",
+   "Password": "denny@006",
+   "employeeDept": "Testing",
+   "managerID": "e005",
+   "Role": "employee"
+ },
+ {
+   "_id": "e007",
+   "employeeName": "Mark Boucher",
+   "Password": "mark@007",
+   "employeeDept": "Testing",
+   "managerID": "e005",
+   "Role": "employee"
+ },
+ {
+   "_id": "e008",
+   "employeeName": "Justine Langer",
+   "Password": "justine@008",
+   "employeeDept": "Testing",
+   "managerID": "e005",
+   "Role": "employee"
+ }

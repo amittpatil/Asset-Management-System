@@ -1,0 +1,21 @@
+{
+   "_id": "a001",
+   "AssetName": "Laptop",
+   "TotalAsset": 10,
+   "AssignTo": ["e004", "e005"],
+   "RemainingAsset": 8
+ },
+ {
+   "_id": "a002",
+   "AssetName": "Printer",
+   "TotalAsset": 4,
+   "AssignTo": ["e004"],
+   "RemainingAsset": 3
+ },
+ {
+   "_id": "a003",
+   "AssetName": "Sim Card",
+   "TotalAsset": 15,
+   "AssignTo": ["e001", "e002", "e004", "e005", "e006"],
+   "RemainingAsset": 10
+ }
